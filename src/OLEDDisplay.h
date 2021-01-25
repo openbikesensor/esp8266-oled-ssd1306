@@ -334,7 +334,7 @@ class OLEDDisplay : public Stream {
     uint8_t            *buffer_back;
     #endif
 
-  protected:
+  //protected:
 
     OLEDDISPLAY_GEOMETRY geometry;
 
